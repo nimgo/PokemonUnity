@@ -10,12 +10,12 @@
   </p>
 </p>
 
-Pokémon Unity was in development for about a year before I could not continue working on the project. Rather than let it
-die, I released the source as is.
+"Pokémon Unity was in development for about a year before I could not continue working on the project. Rather than let it
+die, I released the source as is." - Lucas.
 
-I have changed a lot of code that was either unused (most unused assets were removed) or were obsolete. There can be a lot of conflicts if you're looking forward to using this branch as a framework rather than the master branch. Please be aware that some features in this branch are incomplete.
+I have changed a lot of code that was either unused (most unused assets were removed) or were obsolete. There can be a lot of conflicts if you're looking forward to using this branch as a framework rather than the test-project branch. Please be aware that some features in this branch are incomplete (the features in the test-project branch is being tracked and monitored by the build status).
 
-I strongly recommend that you use the master branch as a base rather than the develop branch. This branch is entirely experimental and has the possibility of breaking your fangame or other project.
+I strongly recommend that you use the master branch as a base rather than the test-project branch. This branch is entirely experimental and the process of being completely redone all over -- possibility of breaking your fangame or other project.
 
 ## Demo and Downloads
 
@@ -23,18 +23,15 @@ There is a demo WebGL for testing available here: [Link to Unity Cloud Build](ht
 
 There are also demos for Windows, Linux, and Mac zipped in [Releases](https://github.com/superusercode/PokemonUnity/releases)! Please report any bugs if found.
 
-## Credits
+## Credits - Names below are from Origin-Fork
 
 * PKUE Project Lead: [Kisu-Amare](https://www.furaffinity.net/user/teampopplio/)
-* PKUE Assistance: Brain_Face#8657
-
-
 * PKUnity Base author: [IIcolour Spectrum](https://www.reddit.com/user/IIcolour_Spectrum)
 * PKUnity Maintainer: [superusercode](https://www.reddit.com/user/Lucas_One/)
 * PKUnity Logo artist: [Kaihatsu](https://twitter.com/KaihatsuYT)
 
 ## Links
 
-* Trello: https://trello.com/b/BXmwFOBt/pokemon-unity-expansion
+* Project: https://github.com/herbertmilhomme/PokemonUnity/projects/1
 * Discord server: https://discord.gg/SggHcXP
 * Documentation: https://pokemonunity.gitbooks.io/pokemon-unity/content/
