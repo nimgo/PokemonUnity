@@ -2,7 +2,7 @@
 	path = TOOLS/Animated Sprites SetUp/Resized/GifToSpritesheet
 	url = https://github.com/Sedatb23/GifToSpritesheet.git
 
-[submodule "Pokemon Unity/Assets/UnityGameFramework"]
+[submodule "UnityGameFramework"]
 	path = Pokemon Unity/Assets/GameFramework
 	url = https://github.com/herbertmilhomme/UnityGameFramework.git
 
